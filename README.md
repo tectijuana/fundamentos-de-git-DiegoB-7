@@ -1,5 +1,10 @@
-![Screenshot 2023-02-16 165241](https://user-images.githubusercontent.com/76633219/219522294-d961568c-7228-41cd-a75b-ab29c32fb14b.jpg)
+*** Hola  *** 
 
+Compilar ($ as)
+Es un programa que se utiliza para traducir el código de ensamblador a código de máquina 
 
-***SCP***
-![image](https://user-images.githubusercontent.com/76633219/219842637-13c81de3-f357-4db3-83dd-ef1e8ed81f6a.png)
+Enlazar ls o  gcc
+Se utiliza para compilar programas escritos en lenguaje C, C++ y otros lenguajes de programación
+
+gdb -q
+Permite  examinar y depurar programas en ejecución para encontrar.
